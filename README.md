@@ -18,3 +18,8 @@ Here, the total bill became 230$ and they gave 10$ tip ( of the bill ).
 Guess the Flag Game in file 'Contentview-GuessTheFlag.swift'
 
 <img width="266" height="565" alt="image" src="https://github.com/user-attachments/assets/c22243e0-50c5-495b-ad6b-29bd35094fbc" />
+
+5.
+An ML model is being used in it that takes an input of wakeup time, Sleeping no of hours ,Coffee Cups intake per day.
+
+<img width="285" height="613" alt="image" src="https://github.com/user-attachments/assets/4e51a15c-1aa9-4901-b87d-5857e216b628" />

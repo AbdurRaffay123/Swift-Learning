@@ -74,6 +74,9 @@ struct ContentView: View {
     }
     
     func startGame(){
+        
+        usedWord = []
+        
         if let startWordURL = Bundle.main.url(forResource: "start", withExtension: "txt"){
         if let startWord = try? String(contentsOf: startWordURL){
             let allWords = startWord.components(separatedBy: "\n")

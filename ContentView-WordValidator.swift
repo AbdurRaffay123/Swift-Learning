@@ -32,6 +32,12 @@ struct ContentView: View {
                             .font(.title.bold())
                     }
                 }
+                
+                ToolbarItem(placement: .navigationBarTrailing) {
+                    Button(action: startGame) {
+                        Label("Restart", systemImage: "arrow.clockwise")
+                    }
+                }
             }
 
             .onAppear(perform: startGame)

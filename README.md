@@ -23,3 +23,9 @@ Guess the Flag Game in file 'Contentview-GuessTheFlag.swift'
 An ML model is being used in it that takes an input of wakeup time, Sleeping no of hours ,Coffee Cups intake per day.
 
 <img width="285" height="613" alt="image" src="https://github.com/user-attachments/assets/4e51a15c-1aa9-4901-b87d-5857e216b628" />
+
+6. This Game only approves the sub-strings from the orignal strings. If anythings goes wrong, it gives the alert feature ( ContentView-WordValidator-Game.swift ). 
+
+    <img width="287" height="606" alt="image" src="https://github.com/user-attachments/assets/a3816ac6-89a4-498d-915e-396e13ba259e" />
+
+ 

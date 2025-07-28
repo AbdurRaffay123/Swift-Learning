@@ -28,4 +28,12 @@ An ML model is being used in it that takes an input of wakeup time, Sleeping no 
 
 <img width="287" height="606" alt="image" src="https://github.com/user-attachments/assets/a3816ac6-89a4-498d-915e-396e13ba259e" />
 
- 
+7. iExpense app keeps the record of all the expenses we do in our daily life. ( ContentView-iExpense.swift & AppDelete.swift ):
+
+Screen 1:
+<img width="292" height="623" alt="image" src="https://github.com/user-attachments/assets/c37b5de1-9775-4290-8d68-04819f47616d" />
+
+Screen 2:
+<img width="301" height="605" alt="image" src="https://github.com/user-attachments/assets/152324d4-8ee6-4464-9b0e-c22e3ac9d8d2" />
+
+

@@ -36,4 +36,14 @@ Screen 1:
 Screen 2:
 <img width="301" height="605" alt="image" src="https://github.com/user-attachments/assets/152324d4-8ee6-4464-9b0e-c22e3ac9d8d2" />
 
+8. Cupcake Corner is an app that books your order.
+
+Screen.1: 
+<img width="331" height="710" alt="image" src="https://github.com/user-attachments/assets/fceb17e1-33d0-4fb7-a73b-de73b8992b9f" />
+
+Screen.2: 
+<img width="338" height="702" alt="image" src="https://github.com/user-attachments/assets/4708f720-1600-4bfd-88ce-0e7294b66754" />
+
+Screen.2_SHOWS Bill:
+<img width="343" height="699" alt="image" src="https://github.com/user-attachments/assets/1c0cb587-e942-4f8b-af50-9e248382f3b4" />
 
